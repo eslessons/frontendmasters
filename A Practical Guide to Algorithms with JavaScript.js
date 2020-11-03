@@ -48,6 +48,8 @@ Start
 Finish
 
 5. Divide & Conquer
+Start
+
 6. Greedy Algorithms
 7. Dynamic Algorithms
 
