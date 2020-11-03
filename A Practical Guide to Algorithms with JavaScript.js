@@ -71,6 +71,8 @@ Finish
 
 7. Dynamic Algorithms
 Start
-	
-
+	1. Introducing Dynamic Programming
+	2. Memoization with Recursion
+	3. Landscape of Data Structures & Algorithms
+Finish
 */
