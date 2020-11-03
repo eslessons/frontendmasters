@@ -34,6 +34,18 @@ Finish
 
 4. Recursion
 Start
+	1. Introducing Recursion
+	2. Call Stack Walkthrough
+	3. Looping with Recursion
+	4. Factorial with a Loop
+	5. Looping Review
+	6. Wrapper Functions
+	7. Accumulators
+	8. Iterative Loop Exercise
+	9. Iterative Loop Solution
+	10. Recursive Factorial & Memoize Exercise
+	11. Recursive Factorial & Memoize Solution
+Finish
 
 5. Divide & Conquer
 6. Greedy Algorithms
