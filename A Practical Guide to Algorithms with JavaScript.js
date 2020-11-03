@@ -63,6 +63,8 @@ Start
 Finish
 
 6. Greedy Algorithms
+Start
+
 7. Dynamic Algorithms
 
 */
