@@ -49,6 +49,18 @@ Finish
 
 5. Divide & Conquer
 Start
+	1. Introducing Divide & Conquer
+	2. Linear Search Exercise
+	3. Linear Search Solution
+	4. Binary Search
+	5. Divide & Conquer Review
+	6. Sorting Types
+	7. Merge Sort
+	8. Merge Sort Walkthrough
+	9. Bubble Sort & Merge Sort Exercise
+	10. Bubble Sort Solution
+	11. Merge Sort Solution
+Finish
 
 6. Greedy Algorithms
 7. Dynamic Algorithms
