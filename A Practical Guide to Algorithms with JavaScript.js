@@ -64,7 +64,10 @@ Finish
 
 6. Greedy Algorithms
 Start
-
+	1. Introducing Greedy
+	2. Greedy Algorithms Walkthrough
+	3. Brute Force
+Finish
 7. Dynamic Algorithms
 
 */
