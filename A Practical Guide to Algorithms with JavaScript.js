@@ -68,6 +68,9 @@ Start
 	2. Greedy Algorithms Walkthrough
 	3. Brute Force
 Finish
+
 7. Dynamic Algorithms
+Start
+	
 
 */
