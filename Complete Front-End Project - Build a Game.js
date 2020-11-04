@@ -27,6 +27,14 @@ Start
 Finish
 
 4. The Game
+Start
+	1. Building the UI- HTML
+	2. Building the UI- CSS
+	3. Unhiding Elements
+	4. Interacting with the UI - Adding Buttons
+	5. Interacting with the UI - Creating Constants
+Finish
+
 5. States
 6. Wrapping Up
 
