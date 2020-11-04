@@ -19,6 +19,13 @@ Start
 Finish
 
 3. Architecture
+Start
+	1. Organizing Your Code
+	2. Init the Project
+	3. Debugging ESLint
+	4. State Machine
+Finish
+
 4. The Game
 5. States
 6. Wrapping Up
