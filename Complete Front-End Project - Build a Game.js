@@ -36,6 +36,15 @@ Start
 Finish
 
 5. States
+Start
+	1. Adding New States
+	2. Adding Helper Functions
+	3. Transitioning Between States
+	4. Refactoring
+	5. Building a New Action
+	6. Resetting States
+Finsih
+
 6. Wrapping Up
 
 */
