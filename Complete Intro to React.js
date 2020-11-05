@@ -12,6 +12,16 @@ Finish
 
 2. Tools
 Start
+	1. Prettier
+	2. ESLint
+	3. ESLint and SublimeText
+	4. webpack and Babel
+	5. Configuring webpack
+	6. Configuring Babel
+	7. Setting Up webpack.config.js File
+	8. Running webpack from npm
+Finish
+
 
 3. React
 4. Routing, Props, & State Management
