@@ -3,6 +3,12 @@ Complete Intro to React, v3 (feat. Redux, Router & Flow)
 
 1. Complete Introduction to React v3
 Start
+	1. Introduction
+	2. Yarn Dependency Manager
+	3. Simple React Components
+	4. React Paradigm
+	5. Factories & Props
+Finish
 
 2. Tools
 3. React
