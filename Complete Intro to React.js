@@ -11,6 +11,8 @@ Start
 Finish
 
 2. Tools
+Start
+
 3. React
 4. Routing, Props, & State Management
 5. Testing React
