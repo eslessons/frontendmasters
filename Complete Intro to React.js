@@ -25,6 +25,10 @@ Finish
 
 3. React
 Start
+	1. JSX
+	2. Starting a Web App
+	3. Setting up devServer
+Finish
 
 4. Routing, Props, & State Management
 5. Testing React
