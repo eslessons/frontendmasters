@@ -22,7 +22,6 @@ Start
 	8. Running webpack from npm
 Finish
 
-
 3. React
 Start
 	1. JSX
@@ -32,6 +31,22 @@ Finish
 
 4. Routing, Props, & State Management
 Start
+	1. React Router
+	2. HashRouter
+	3. BrowserRouter
+	4. Loading JSON Data
+	5. Makng a ShowCard Component
+	6. PropTypes
+	7. Using the Spread Operator in JSX
+	8. Key Prop
+	9. styled-components
+	10. One-Way Data Flow
+	11. Q&A - Key and styled-components
+	12. Managing State
+	13. transform-class-properties
+	14. Filtering
+	15. Q&A - Nested Arrays, ES6, & More
+Finish
 
 5. Testing React
 6. Hot Module Replacement
