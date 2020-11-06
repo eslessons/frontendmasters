@@ -31,6 +31,8 @@ Start
 Finish
 
 4. Routing, Props, & State Management
+Start
+
 5. Testing React
 6. Hot Module Replacement
 7. Flow
