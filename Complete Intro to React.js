@@ -60,6 +60,8 @@ Start
 Finish
 
 6. Hot Module Replacement
+Start
+
 7. Flow
 8. Data in React
 9. Redux
