@@ -49,6 +49,8 @@ Start
 Finish
 
 5. Testing React
+Start
+
 6. Hot Module Replacement
 7. Flow
 8. Data in React
