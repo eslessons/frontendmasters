@@ -61,6 +61,9 @@ Finish
 
 6. Hot Module Replacement
 Start
+	1. Introducing Hot Module Replacement
+	2. Setting up HMR
+Finish
 
 7. Flow
 8. Data in React
