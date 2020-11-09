@@ -50,6 +50,14 @@ Finish
 
 5. Testing React
 Start
+	1. Snapshot Testing with Jest
+	2. Configuring and Running Jest
+	3. Shallow testing with Enzyme
+	4. Testing the Number of ShowCards
+	5. Testing the Search Field
+	6. Thoughts on Testing
+	7. test Coverage with Istanbul
+Finish
 
 6. Hot Module Replacement
 7. Flow
