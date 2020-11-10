@@ -49,7 +49,7 @@ Start
 Finish
 
 5. Testing React
-Restart
+Start
 	1. Snapshot Testing with Jest
 	2. Configuring and Running Jest
 	3. Shallow testing with Enzyme
