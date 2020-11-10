@@ -60,7 +60,7 @@ Start
 Finish
 
 6. Hot Module Replacement
-Restart
+Start
 	1. Introducing Hot Module Replacement
 	2. Setting up HMR
 Finish
