@@ -66,6 +66,8 @@ Start
 Finish
 
 7. Flow
+Start
+
 8. Data in React
 9. Redux
 10. Async Redux
