@@ -67,6 +67,12 @@ Finish
 
 7. Flow
 Start
+	1. Introducing Flow
+	2. Setting up Flow
+	3. Applying Flow
+	4. Defining flow-typed
+	5. Fixing flow-typed Definitions
+Finish
 
 8. Data in React
 9. Redux
