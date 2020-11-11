@@ -75,6 +75,8 @@ Start
 Finish
 
 8. Data in React
+Start
+
 9. Redux
 10. Async Redux
 11. Testing Redux
