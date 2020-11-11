@@ -76,6 +76,20 @@ Finish
 
 8. Data in React
 Start
+	1. URL Parameters
+	2. Sharing State & Updating the Search Components
+	3. Finishing the Details Component
+	4. Creating a Header Component
+	5. Conditional Display Logic Part 1
+	6. Conditional Display Logic Part 2
+	7. React Lifecycle Methods
+	8. componentDidMount() & AJAX Requests
+	9. Showcard Link
+	10. Wrapper and Q&A
+	11. React Development Tools
+	12. React Performance Tools
+	13. Q&A - Defining Components, & More
+Finish
 
 9. Redux
 10. Async Redux
