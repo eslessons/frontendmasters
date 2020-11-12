@@ -93,6 +93,7 @@ Finish
 
 9. Redux
 Start
+Finish
 	
 10. Async Redux
 11. Testing Redux
