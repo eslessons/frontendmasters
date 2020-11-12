@@ -96,6 +96,8 @@ Start
 Finish
 	
 10. Async Redux
+Start
+
 11. Testing Redux
 12. Universal Rendering
 13. Webpack Code-Splitting and Async Routing
