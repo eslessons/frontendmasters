@@ -97,6 +97,7 @@ Finish
 	
 10. Async Redux
 Start
+Finish
 
 11. Testing Redux
 12. Universal Rendering
