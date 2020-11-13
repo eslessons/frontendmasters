@@ -100,6 +100,8 @@ Start
 Finish
 
 11. Testing Redux
+Start
+
 12. Universal Rendering
 13. Webpack Code-Splitting and Async Routing
 14. Wrapping Up Introduction to React v3
