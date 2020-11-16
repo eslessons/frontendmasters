@@ -93,10 +93,37 @@ Finish
 
 9. Redux
 Start
-	
+	1. Introducing Redux
+	2. Setting up Redux
+	3. Connect Redux to React
+	4. Landing Interact with Store
+	5. Dispatching Actions to Redux
+	6. Redux Review
+	7. Search Submit Event
+	8. Using Redux in the Search Component
+	9. Using redux in the Header Component
+	10. Q&A - Object and Props, Dispatch, & More
+	11. Q&A - Recap
+	12. Refactor Redux for Flow
+	13. Refactor Reducers
+	14. Redux DevTools
+	15. Q&A - Coding Issue, State, & More
+Finish
+
 10. Async Redux
+Start
+Finish
+
 11. Testing Redux
+Start
+Finish
+
 12. Universal Rendering
+Start
+Finish
+
 13. Webpack Code-Splitting and Async Routing
+Start
+
 14. Wrapping Up Introduction to React v3
 
