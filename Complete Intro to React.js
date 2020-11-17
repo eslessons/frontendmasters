@@ -141,6 +141,8 @@ Start
 Finish
 
 03. React Tooling
+Start
+
 04. Parcel
 05. JSX
 06. Rendering Data
