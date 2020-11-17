@@ -137,6 +137,8 @@ Start
 Finish
 
 02. Pure React
+Start
+
 03. React Tooling
 04. Parcel
 05. JSX
