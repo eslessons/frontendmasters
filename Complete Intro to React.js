@@ -142,6 +142,7 @@ Finish
 
 03. React Tooling
 Start
+Finish
 
 04. Parcel
 05. JSX
