@@ -134,6 +134,7 @@ Finish
 
 01. Introduction
 Start
+Finish
 
 02. Pure React
 03. React Tooling
