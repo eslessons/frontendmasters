@@ -138,6 +138,7 @@ Finish
 
 02. Pure React
 Start
+Finish
 
 03. React Tooling
 04. Parcel
