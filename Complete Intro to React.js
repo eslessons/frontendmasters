@@ -146,6 +146,7 @@ Finish
 
 04. Parcel
 Start
+Finish
 
 05. JSX
 06. Rendering Data
