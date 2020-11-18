@@ -154,6 +154,7 @@ Finish
 
 06. Rendering Data
 Start
+Finish
 
 07. Routing
 08. Async UI
