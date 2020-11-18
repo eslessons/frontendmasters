@@ -145,6 +145,8 @@ Start
 Finish
 
 04. Parcel
+Start
+
 05. JSX
 06. Rendering Data
 07. Routing
