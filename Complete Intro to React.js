@@ -149,6 +149,8 @@ Start
 Finish
 
 05. JSX
+Start
+
 06. Rendering Data
 07. Routing
 08. Async UI
