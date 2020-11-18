@@ -150,6 +150,7 @@ Finish
 
 05. JSX
 Start
+Finish
 
 06. Rendering Data
 07. Routing
