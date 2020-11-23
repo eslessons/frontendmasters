@@ -180,4 +180,22 @@ Finish
 Start
 Finish
 
-// 
+// Complete Intro to React, v5
+
+1. Introduction
+Start
+
+2. Pure React
+3. Tools
+4. JSX
+5. Hooks
+6. Effects
+7. Dev Tools
+8. Async & Routing
+9. Class Components
+10. Error Boundaries
+11. Context
+12. Portals
+13. Wrapping Up
+
+*/
