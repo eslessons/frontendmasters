@@ -187,6 +187,8 @@ Start
 Finish
 
 2. Pure React
+Start
+
 3. Tools
 4. JSX
 5. Hooks
