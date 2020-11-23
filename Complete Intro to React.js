@@ -184,6 +184,7 @@ Finish
 
 1. Introduction
 Start
+Finish
 
 2. Pure React
 3. Tools
