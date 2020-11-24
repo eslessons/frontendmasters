@@ -203,6 +203,8 @@ Start
 Finish
 
 6. Effects
+Start
+
 7. Dev Tools
 8. Async & Routing
 9. Class Components
