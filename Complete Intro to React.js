@@ -196,6 +196,7 @@ Finish
 
 4. JSX
 Start
+Finish
 
 5. Hooks
 6. Effects
