@@ -200,6 +200,7 @@ Finish
 
 5. Hooks
 Start
+Finish
 
 6. Effects
 7. Dev Tools
