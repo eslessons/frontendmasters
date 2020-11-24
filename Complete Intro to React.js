@@ -199,6 +199,8 @@ Start
 Finish
 
 5. Hooks
+Start
+
 6. Effects
 7. Dev Tools
 8. Async & Routing
