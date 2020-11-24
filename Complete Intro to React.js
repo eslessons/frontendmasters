@@ -204,6 +204,7 @@ Finish
 
 6. Effects
 Start
+Finish
 
 7. Dev Tools
 8. Async & Routing
