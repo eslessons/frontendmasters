@@ -216,6 +216,7 @@ Finish
 
 9. Class Components
 Start
+Finish
 
 10. Error Boundaries
 11. Context
