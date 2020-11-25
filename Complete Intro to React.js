@@ -207,6 +207,8 @@ Start
 Finish
 
 7. Dev Tools
+Start
+
 8. Async & Routing
 9. Class Components
 10. Error Boundaries
