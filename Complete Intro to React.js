@@ -212,6 +212,7 @@ Finish
 
 8. Async & Routing
 Start
+Finish
 
 9. Class Components
 10. Error Boundaries
