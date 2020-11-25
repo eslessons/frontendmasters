@@ -215,6 +215,8 @@ Start
 Finish
 
 9. Class Components
+Start
+
 10. Error Boundaries
 11. Context
 12. Portals
