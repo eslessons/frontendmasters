@@ -208,6 +208,7 @@ Finish
 
 7. Dev Tools
 Start
+Finish
 
 8. Async & Routing
 9. Class Components
