@@ -219,6 +219,8 @@ Start
 Finish
 
 10. Error Boundaries
+Start
+
 11. Context
 12. Portals
 13. Wrapping Up
