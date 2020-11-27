@@ -228,6 +228,7 @@ Finsih
 
 12. Portals
 Start
+Finish
 
 13. Wrapping Up
 
