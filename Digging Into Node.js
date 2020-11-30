@@ -3,6 +3,7 @@ Digging Into Node.js
 
 1. Introduction
 Start
+Finish
 
 2. Command Line Scripts
 3. Streams
