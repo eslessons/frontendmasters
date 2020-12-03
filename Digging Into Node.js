@@ -27,6 +27,7 @@ Finish
 
 7. Debugging
 Start
+Finish
 
 8. Wrapping Up
 
