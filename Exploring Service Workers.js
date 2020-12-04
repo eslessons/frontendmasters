@@ -3,6 +3,7 @@ Exploring Service Workers
 
 1. Introduction
 Start
+Finish
 
 2. Web Workers
 3. Service Workers
