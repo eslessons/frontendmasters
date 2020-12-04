@@ -7,6 +7,7 @@ Finish
 
 2. Web Workers
 Start
+Finish
 
 3. Service Workers
 4. Service Workers Project
