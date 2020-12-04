@@ -6,6 +6,8 @@ Start
 Finish
 
 2. Web Workers
+Start
+
 3. Service Workers
 4. Service Workers Project
 5. Service Worker Cache
