@@ -14,6 +14,8 @@ Start
 Finish
 
 4. Service Workers Project
+Start
+
 5. Service Worker Cache
 6. Service Worker Routing
 7. Improving UX
