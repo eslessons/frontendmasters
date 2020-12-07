@@ -15,6 +15,7 @@ Finish
 
 4. Service Workers Project
 Start
+Finish
 
 5. Service Worker Cache
 6. Service Worker Routing
