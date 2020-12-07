@@ -18,6 +18,8 @@ Start
 Finish
 
 5. Service Worker Cache
+Start
+
 6. Service Worker Routing
 7. Improving UX
 8. Wrapping Up
