@@ -24,6 +24,7 @@ Finish
 6. Service Worker Routing
 Start
 
+
 7. Improving UX
 8. Wrapping Up
 
