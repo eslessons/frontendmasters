@@ -27,6 +27,7 @@ Finish
 
 7. Improving UX
 Start
+Finish
 
 8. Wrapping Up
 
