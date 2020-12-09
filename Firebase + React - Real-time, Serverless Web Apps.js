@@ -11,6 +11,7 @@ Finish
 
 3. Growing The Database
 Start
+Finish
 
 4. Lunch Application
 5. NoSQL
