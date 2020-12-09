@@ -3,6 +3,7 @@ Firebase + React - Real-time, Serverless Web Apps
 
 1. Firebase + React
 Start
+Finish
 
 2. Getting a Firebase + React Up And Running
 3. Growing The Database
