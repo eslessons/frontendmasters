@@ -6,6 +6,8 @@ Start
 Finish
 
 2. Getting a Firebase + React Up And Running
+Start
+
 3. Growing The Database
 4. Lunch Application
 5. NoSQL
