@@ -10,6 +10,8 @@ Start
 Finish
 
 3. Growing The Database
+Start
+
 4. Lunch Application
 5. NoSQL
 6. Cloud Storage
