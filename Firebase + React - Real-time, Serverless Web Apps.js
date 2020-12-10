@@ -19,6 +19,7 @@ Finish
 
 5. NoSQL
 Start
+Finish
 
 6. Cloud Storage
 7. Chat Application
