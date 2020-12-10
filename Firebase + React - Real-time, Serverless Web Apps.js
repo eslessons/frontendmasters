@@ -23,6 +23,7 @@ Finish
 
 6. Cloud Storage
 Start
+Finish
 
 7. Chat Application
 8. Cloud Functions
