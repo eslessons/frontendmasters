@@ -14,6 +14,8 @@ Start
 Finish
 
 4. Lunch Application
+Start
+
 5. NoSQL
 6. Cloud Storage
 7. Chat Application
