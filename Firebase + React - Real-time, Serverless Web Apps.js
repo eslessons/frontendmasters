@@ -26,6 +26,8 @@ Start
 Finish
 
 7. Chat Application
+Start
+
 8. Cloud Functions
 9. Wrapping Up
 
