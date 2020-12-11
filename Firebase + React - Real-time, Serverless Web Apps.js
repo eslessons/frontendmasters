@@ -31,6 +31,7 @@ Finish
 
 8. Cloud Functions
 Start
+Finish
 
 9. Wrapping Up
 
