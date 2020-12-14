@@ -52,6 +52,9 @@ Start
 Finish
 
 4. OAuth
+Start
+Finish
+
 5. Security Rules
 6. Authentication & User Documents
 7. State Management
