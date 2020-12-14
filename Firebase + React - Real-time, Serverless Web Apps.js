@@ -44,9 +44,13 @@ Start
 Finish
 
 2. Setup
+Start
 Finish
 
 3. Querying & Updating
+Start
+Finish
+
 4. OAuth
 5. Security Rules
 6. Authentication & User Documents
