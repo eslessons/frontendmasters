@@ -44,6 +44,8 @@ Start
 Finish
 
 2. Setup
+Finish
+
 3. Querying & Updating
 4. OAuth
 5. Security Rules
