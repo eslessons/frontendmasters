@@ -56,6 +56,9 @@ Start
 Finish
 
 5. Security Rules
+Start
+Finish
+
 6. Authentication & User Documents
 7. State Management
 8. User Interface
