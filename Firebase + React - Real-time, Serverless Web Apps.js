@@ -40,6 +40,9 @@ Finish
 // Firebase with React, v2
 
 1. Introduction
+Start
+Finish
+
 2. Setup
 3. Querying & Updating
 4. OAuth
