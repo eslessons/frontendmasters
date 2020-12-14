@@ -60,6 +60,9 @@ Start
 Finish
 
 6. Authentication & User Documents
+Start
+Finish
+
 7. State Management
 8. User Interface
 9. File Uploading
