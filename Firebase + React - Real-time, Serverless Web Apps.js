@@ -37,4 +37,20 @@ Finish
 Start
 Finish
 
+// Firebase with React, v2
+
+1. Introduction
+2. Setup
+3. Querying & Updating
+4. OAuth
+5. Security Rules
+6. Authentication & User Documents
+7. State Management
+8. User Interface
+9. File Uploading
+10. Sub Collections
+11. Deployment
+12. Cloud Functions
+
+
 */
