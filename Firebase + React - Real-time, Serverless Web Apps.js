@@ -64,6 +64,8 @@ Start
 Finish
 
 7. State Management
+Start
+
 8. User Interface
 9. File Uploading
 10. Sub Collections
