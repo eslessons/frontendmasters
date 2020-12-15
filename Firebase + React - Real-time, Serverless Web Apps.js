@@ -65,6 +65,7 @@ Finish
 
 7. State Management
 Start
+Finish
 
 8. User Interface
 9. File Uploading
