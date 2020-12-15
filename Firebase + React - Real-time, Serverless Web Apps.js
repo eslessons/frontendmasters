@@ -69,6 +69,7 @@ Finish
 
 8. User Interface
 Start
+Finish
 
 9. File Uploading
 10. Sub Collections
