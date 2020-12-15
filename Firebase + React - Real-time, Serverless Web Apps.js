@@ -73,7 +73,7 @@ Finish
 
 9. File Uploading
 Start
-
+Finish
 
 10. Sub Collections
 11. Deployment
