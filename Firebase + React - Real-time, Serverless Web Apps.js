@@ -72,6 +72,9 @@ Start
 Finish
 
 9. File Uploading
+Start
+
+
 10. Sub Collections
 11. Deployment
 12. Cloud Functions
