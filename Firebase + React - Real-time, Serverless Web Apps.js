@@ -81,6 +81,7 @@ Finish
 
 11. Deployment
 Start
+Finish
 
 12. Cloud Functions
 
