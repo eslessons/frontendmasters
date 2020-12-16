@@ -77,6 +77,7 @@ Finish
 
 10. Sub Collections
 Start
+Finish
 
 11. Deployment
 12. Cloud Functions
