@@ -80,6 +80,8 @@ Start
 Finish
 
 11. Deployment
+Start
+
 12. Cloud Functions
 
 
