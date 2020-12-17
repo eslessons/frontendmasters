@@ -9,6 +9,7 @@ Finish
 
 2. Sorting Algorithms
 Start
+Finish
 
 3. Data Structure Interfaces
 4. Implementing Data Structures
