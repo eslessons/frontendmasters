@@ -13,6 +13,7 @@ Finish
 
 3. Data Structure Interfaces
 Start
+Finish
 
 4. Implementing Data Structures
 5. Functional Programming 101
