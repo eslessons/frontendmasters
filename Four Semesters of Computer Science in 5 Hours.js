@@ -5,6 +5,7 @@ Part 1
 
 1. Big O & Recursion
 Start
+Finish
 
 2. Sorting Algorithms
 3. Data Structure Interfaces
