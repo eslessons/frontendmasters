@@ -17,6 +17,7 @@ Finish
 
 4. Implementing Data Structures
 Start
+Finish
 
 5. Functional Programming 101
 
