@@ -34,6 +34,8 @@ Start
 Finish
 
 3. Tree Traversals
+Start
+
 4. Pathfinding
 5. Graphs
 6. Generating a Maze
