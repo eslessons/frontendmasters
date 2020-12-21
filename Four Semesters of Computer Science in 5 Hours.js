@@ -35,6 +35,7 @@ Finish
 
 3. Tree Traversals
 Start
+Finish
 
 4. Pathfinding
 5. Graphs
