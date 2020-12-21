@@ -23,4 +23,21 @@ Finish
 Start
 Finish
 
-//
+// Part 2
+
+1. Introduction
+Start
+Finish
+
+2. Bloom Filters
+3. Tree Traversals
+4. Pathfinding
+5. Graphs
+6. Generating a Maze
+7. Tries
+8. Searching for an Element in an Array
+9. Heap Sort
+10. Radix Sort
+11. Conclusion
+
+*/
