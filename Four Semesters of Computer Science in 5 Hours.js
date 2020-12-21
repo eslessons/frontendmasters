@@ -31,6 +31,7 @@ Finish
 
 2. Bloom Filters
 Start
+Finish
 
 3. Tree Traversals
 4. Pathfinding
