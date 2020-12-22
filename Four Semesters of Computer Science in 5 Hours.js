@@ -46,6 +46,8 @@ Start
 Finish
 
 6. Generating a Maze
+Start
+
 7. Tries
 8. Searching for an Element in an Array
 9. Heap Sort
