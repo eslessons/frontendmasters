@@ -39,6 +39,7 @@ Finish
 
 4. Pathfinding
 Start
+Finish
 
 5. Graphs
 6. Generating a Maze
