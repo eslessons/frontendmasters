@@ -38,6 +38,8 @@ Start
 Finish
 
 4. Pathfinding
+Start
+
 5. Graphs
 6. Generating a Maze
 7. Tries
