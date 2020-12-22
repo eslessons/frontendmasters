@@ -42,6 +42,8 @@ Start
 Finish
 
 5. Graphs
+Start
+
 6. Generating a Maze
 7. Tries
 8. Searching for an Element in an Array
