@@ -43,6 +43,7 @@ Finish
 
 5. Graphs
 Start
+Finish
 
 6. Generating a Maze
 7. Tries
