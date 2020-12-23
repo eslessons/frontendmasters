@@ -50,6 +50,8 @@ Start
 Finish
 
 7. Tries
+Start
+
 8. Searching for an Element in an Array
 9. Heap Sort
 10. Radix Sort
