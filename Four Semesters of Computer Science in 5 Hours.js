@@ -51,6 +51,7 @@ Finish
 
 7. Tries
 Start
+Finish
 
 8. Searching for an Element in an Array
 9. Heap Sort
