@@ -47,6 +47,7 @@ Finish
 
 6. Generating a Maze
 Start
+Finish
 
 7. Tries
 8. Searching for an Element in an Array
