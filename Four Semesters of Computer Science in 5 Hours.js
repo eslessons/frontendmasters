@@ -54,6 +54,8 @@ Start
 Finish
 
 8. Searching for an Element in an Array
+Start
+
 9. Heap Sort
 10. Radix Sort
 11. Conclusion
