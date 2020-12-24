@@ -59,6 +59,7 @@ Finish
 
 9. Heap Sort
 Start
+Finish
 
 10. Radix Sort
 11. Conclusion
