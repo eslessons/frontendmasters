@@ -11,7 +11,7 @@ Finish
 
 3. Basic Go Syntax
 Start
-
+Finish
 
 4. Complex Structures
 5. Go Toolkit
