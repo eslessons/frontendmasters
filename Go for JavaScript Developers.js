@@ -3,6 +3,7 @@ Go for JavaScript Developers
 
 1. Introduction
 Start
+Finish
 
 2. Printing
 3. Basic Go Syntax
