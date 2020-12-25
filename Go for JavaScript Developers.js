@@ -6,6 +6,8 @@ Start
 Finish
 
 2. Printing
+Start
+
 3. Basic Go Syntax
 4. Complex Structures
 5. Go Toolkit
