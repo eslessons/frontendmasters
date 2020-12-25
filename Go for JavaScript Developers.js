@@ -10,6 +10,9 @@ Start
 Finish
 
 3. Basic Go Syntax
+Start
+
+
 4. Complex Structures
 5. Go Toolkit
 6. Structs
