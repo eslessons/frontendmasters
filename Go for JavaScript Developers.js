@@ -7,6 +7,7 @@ Finish
 
 2. Printing
 Start
+Finish
 
 3. Basic Go Syntax
 4. Complex Structures
