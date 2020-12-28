@@ -18,6 +18,7 @@ Start
 Finish
 
 5. Go Toolkit
+Start
 
 
 6. Structs
