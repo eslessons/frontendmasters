@@ -15,6 +15,7 @@ Finish
 
 4. Complex Structures
 Start
+Finish
 
 5. Go Toolkit
 
