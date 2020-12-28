@@ -19,11 +19,9 @@ Finish
 
 5. Go Toolkit
 Start
-
+Finish
 
 6. Structs
-
-
 
 7. Pointers
 8. Error Handling
