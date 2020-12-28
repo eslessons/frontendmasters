@@ -14,8 +14,15 @@ Start
 Finish
 
 4. Complex Structures
+Start
+
 5. Go Toolkit
+
+
 6. Structs
+
+
+
 7. Pointers
 8. Error Handling
 9. Methods
