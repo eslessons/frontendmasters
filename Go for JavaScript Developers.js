@@ -27,7 +27,7 @@ Finish
 
 7. Pointers
 Start
-
+Finish
 
 8. Error Handling
 9. Methods
