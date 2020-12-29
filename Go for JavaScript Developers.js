@@ -26,6 +26,9 @@ Start
 Finish
 
 7. Pointers
+Start
+
+
 8. Error Handling
 9. Methods
 10. Interfaces
