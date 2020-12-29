@@ -22,6 +22,7 @@ Start
 Finish
 
 6. Structs
+Start
 
 7. Pointers
 8. Error Handling
