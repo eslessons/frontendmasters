@@ -3,6 +3,7 @@ Hardcore Functional Architecture Patterns in JavaScript
 
 1. Introduction
 Start
+Finish
 
 2. Semigroups & Monoids
 3. Function Modeling
