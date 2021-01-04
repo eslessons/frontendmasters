@@ -10,6 +10,9 @@ Start
 Finish
 
 3. Function Modeling
+Start
+Finish
+
 4. Monadic Web Apps
 5. Wrapping Up
 
