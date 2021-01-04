@@ -6,6 +6,9 @@ Start
 Finish
 
 2. Semigroups & Monoids
+Start
+Finish
+
 3. Function Modeling
 4. Monadic Web Apps
 5. Wrapping Up
