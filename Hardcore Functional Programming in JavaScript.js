@@ -3,6 +3,7 @@ Hardcore Functional Programming in JavaScript, v2
 
 1. Introduction
 Start
+Finish
 
 2. Currying
 3. Composition
