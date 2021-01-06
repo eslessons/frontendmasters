@@ -6,6 +6,9 @@ Start
 Finish
 
 2. Currying
+Start
+Finish
+
 3. Composition
 4. Functors
 5. Either Monad
