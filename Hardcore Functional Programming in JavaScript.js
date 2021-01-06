@@ -14,6 +14,9 @@ Start
 Finish
 
 4. Functors
+Start
+Finish
+
 5. Either Monad
 6. Task
 7. Wrapping Up
