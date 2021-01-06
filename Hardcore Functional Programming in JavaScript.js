@@ -18,6 +18,9 @@ Start
 Finish
 
 5. Either Monad
+Start
+Finish
+
 6. Task
 7. Wrapping Up
 
