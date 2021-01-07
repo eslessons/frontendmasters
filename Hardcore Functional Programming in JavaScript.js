@@ -22,6 +22,9 @@ Start
 Finish
 
 6. Task
+Start
+Finish
+
 7. Wrapping Up
 
 */
