@@ -3,6 +3,7 @@ Complete Intro to Databases
 
 1. Complete Intro to Databases
 Start
+Finish
 
 2. NoSQL
 3. SQL
