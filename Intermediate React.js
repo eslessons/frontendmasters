@@ -3,6 +3,7 @@ Intermediate React
 
 1. Introduction
 Start
+Finish
 
 2. Testing React
 3. CSS in JS
