@@ -10,6 +10,9 @@ Start
 Finish
 
 3. CSS in JS
+Start
+Finish
+
 4. Code Splitting
 5. Redux
 6. Server Side Rendering
