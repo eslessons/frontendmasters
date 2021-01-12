@@ -18,6 +18,9 @@ Start
 Finish
 
 5. Redux
+Start
+Finish
+
 6. Server Side Rendering
 7. Preact
 8. Code Organization
