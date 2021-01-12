@@ -6,6 +6,9 @@ Start
 Finish
 
 2. Testing React
+Start
+Finish
+
 3. CSS in JS
 4. Code Splitting
 5. Redux
