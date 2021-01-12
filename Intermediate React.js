@@ -14,6 +14,9 @@ Start
 Finish
 
 4. Code Splitting
+Start
+Finish
+
 5. Redux
 6. Server Side Rendering
 7. Preact
