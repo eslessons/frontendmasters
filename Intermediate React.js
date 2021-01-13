@@ -30,6 +30,9 @@ Start
 Finish
 
 8. Code Organization
+Start
+Finish
+
 9. TypeScript with React
 
 */
