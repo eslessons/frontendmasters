@@ -34,5 +34,7 @@ Start
 Finish
 
 9. TypeScript with React
+Start
+Finish
 
 */
