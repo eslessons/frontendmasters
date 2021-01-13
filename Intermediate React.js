@@ -22,6 +22,8 @@ Start
 Finish
 
 6. Server Side Rendering
+Start
+
 7. Preact
 8. Code Organization
 9. TypeScript with React
