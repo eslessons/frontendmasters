@@ -45,6 +45,9 @@ Start
 Finish
 
 2. Basic Hooks
+Start
+Finish
+
 3. Hooks In-Depth
 4. CSS in JS
 5. Code Splitting
