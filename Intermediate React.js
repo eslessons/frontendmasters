@@ -37,4 +37,20 @@ Finish
 Start
 Finish
 
+
+// Frontendmasters.com - Intermediate React, v2
+
+1. Introduction
+Start
+Finish
+
+2. Basic Hooks
+3. Hooks In-Depth
+4. CSS in JS
+5. Code Splitting
+6. Server Side Rendering
+7. TypeScript with React
+8. Redux
+9. Testing React
+
 */
