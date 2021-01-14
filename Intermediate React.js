@@ -53,6 +53,9 @@ Start
 Finish
 
 4. CSS in JS
+Start
+Finish
+
 5. Code Splitting
 6. Server Side Rendering
 7. TypeScript with React
