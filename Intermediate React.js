@@ -49,6 +49,9 @@ Start
 Finish
 
 3. Hooks In-Depth
+Start
+Finish
+
 4. CSS in JS
 5. Code Splitting
 6. Server Side Rendering
