@@ -61,6 +61,9 @@ Start
 Finish
 
 6. Server Side Rendering
+Start
+Finish
+
 7. TypeScript with React
 8. Redux
 9. Testing React
