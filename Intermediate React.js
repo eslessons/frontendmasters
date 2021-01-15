@@ -65,6 +65,9 @@ Start
 Finish
 
 7. TypeScript with React
+Start
+Finish
+
 8. Redux
 9. Testing React
 
