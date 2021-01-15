@@ -57,6 +57,9 @@ Start
 Finish
 
 5. Code Splitting
+Start
+Finish
+
 6. Server Side Rendering
 7. TypeScript with React
 8. Redux
