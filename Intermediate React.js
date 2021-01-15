@@ -69,6 +69,9 @@ Start
 Finish
 
 8. Redux
+Start
+Finish
+
 9. Testing React
 
 */
