@@ -3,6 +3,7 @@ Introduction to Next.js
 
 1. Introduction
 Start
+Finish
 
 2. Routing
 3. Config
