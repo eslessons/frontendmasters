@@ -7,10 +7,16 @@ Finish
 
 2. Routing
 Start
+Finish
 
 3. Config
+Start
+Finish
+
 4. API
+
 5. Deployment
+
 6. Wrapping Up
 
 */
