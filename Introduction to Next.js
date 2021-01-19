@@ -18,6 +18,8 @@ Start
 Finish
 
 5. Deployment
+Start
+Finish
 
 6. Wrapping Up
 
