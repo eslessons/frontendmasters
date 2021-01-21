@@ -15,9 +15,12 @@ Finish
 
 4. Database & Auth
 Start
-
+Finish
 
 5. Use Cases & Q&A
+Start
+Finish
+
 6. Wrapping Up
 
 */
