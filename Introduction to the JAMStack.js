@@ -3,7 +3,7 @@ Introduction to the JAMStack
 
 1. Introduction
 Start
-
+Finish
 
 2. Vanilla JAMStack
 3. Serverless Contact Form
