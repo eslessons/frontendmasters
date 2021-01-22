@@ -14,6 +14,9 @@ Start
 Finish
 
 4. User Dashboard SPA
+Start
+Finish
+
 5. Persisting Data
 6. Wrapping Up
 
