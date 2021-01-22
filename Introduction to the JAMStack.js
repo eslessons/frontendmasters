@@ -10,6 +10,9 @@ Start
 Finish
 
 3. Serverless Contact Form
+Start
+Finish
+
 4. User Dashboard SPA
 5. Persisting Data
 6. Wrapping Up
