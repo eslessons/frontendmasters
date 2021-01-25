@@ -18,6 +18,9 @@ Start
 Finish
 
 5. Further Destructuring
+Start
+Finish
+
 6. Array Methods
 7. Iterators & Generators
 8. Regular Expressions
