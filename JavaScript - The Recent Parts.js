@@ -14,6 +14,9 @@ Start
 Finish
 
 4. Object Destructuring
+Start
+Finish
+
 5. Further Destructuring
 6. Array Methods
 7. Iterators & Generators
