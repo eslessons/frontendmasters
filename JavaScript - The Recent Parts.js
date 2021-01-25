@@ -10,6 +10,9 @@ Start
 Finish
 
 3. Array Destructuring
+Start
+Finish
+
 4. Object Destructuring
 5. Further Destructuring
 6. Array Methods
