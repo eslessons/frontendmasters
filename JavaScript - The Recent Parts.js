@@ -3,7 +3,7 @@ JavaScript - The Recent Parts
 
 1. Introduction
 Start
-
+Finish
 
 2. Strings
 3. Array Destructuring
