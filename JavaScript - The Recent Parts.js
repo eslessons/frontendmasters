@@ -6,6 +6,9 @@ Start
 Finish
 
 2. Strings
+Start
+Finish
+
 3. Array Destructuring
 4. Object Destructuring
 5. Further Destructuring
