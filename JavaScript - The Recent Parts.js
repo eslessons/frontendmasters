@@ -22,6 +22,9 @@ Start
 Finish
 
 6. Array Methods
+Start
+Finish
+
 7. Iterators & Generators
 8. Regular Expressions
 9. Async Await
