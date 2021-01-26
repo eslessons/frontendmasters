@@ -30,6 +30,9 @@ Start
 Finish
 
 8. Regular Expressions
+Start
+Finish
+
 9. Async Await
 10. Wrap-Up
 
