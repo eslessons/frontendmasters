@@ -14,6 +14,9 @@ Start
 Finish
 
 4. Conventional Commits & CommitLint
+Start
+Finish
+
 5. Dependencies
 6. Documentation
 7. Wrapping Up
