@@ -10,6 +10,9 @@ Start
 Finish
 
 3. Linting & Centralizing Builds
+Start
+Finish
+
 4. Conventional Commits & CommitLint
 5. Dependencies
 6. Documentation
