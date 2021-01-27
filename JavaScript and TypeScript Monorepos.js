@@ -3,6 +3,7 @@ JavaScript and TypeScript Monorepos
 
 1. Introduction
 Start
+Finish
 
 2. Composite TypeScript Project
 3. Linting & Centralizing Builds
