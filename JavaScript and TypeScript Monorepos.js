@@ -18,6 +18,9 @@ Start
 Finish
 
 5. Dependencies
+Start
+Finish
+
 6. Documentation
 7. Wrapping Up
 
