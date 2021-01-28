@@ -1,9 +1,9 @@
 /* Frontendmasters.com - 
-Mastering Chrome Developer Tools
+Mastering Chrome Developer Tools, v2
 
 1. Introduction
 Start
-
+Finish
 
 2. Editing
 3. Debugging
