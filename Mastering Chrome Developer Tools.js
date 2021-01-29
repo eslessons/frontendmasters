@@ -26,6 +26,9 @@ Start
 Finish
 
 7. Performance Monitoring
+Start
+Finish
+
 8. Image Performance
 9. Page Jank
 10. Memory
