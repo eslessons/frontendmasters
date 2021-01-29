@@ -30,6 +30,9 @@ Start
 Finish
 
 8. Image Performance
+Start
+Finish
+
 9. Page Jank
 10. Memory
 11. Wrapping Up
