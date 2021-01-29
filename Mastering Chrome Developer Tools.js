@@ -22,6 +22,9 @@ Start
 Finish
 
 6. Node.js Profiling
+Start
+Finish
+
 7. Performance Monitoring
 8. Image Performance
 9. Page Jank
