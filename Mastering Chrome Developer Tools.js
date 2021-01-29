@@ -34,6 +34,9 @@ Start
 Finish
 
 9. Page Jank
+Start
+Finish
+
 10. Memory
 11. Wrapping Up
 
