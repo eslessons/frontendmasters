@@ -18,6 +18,9 @@ Start
 Finish
 
 5. Auditing
+Start
+Finish
+
 6. Node.js Profiling
 7. Performance Monitoring
 8. Image Performance
