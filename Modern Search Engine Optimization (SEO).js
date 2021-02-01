@@ -22,6 +22,9 @@ Start
 Finish
 
 6. Accelerated Mobile Pages (AMP) Project
+Start
+Finish
+
 7. Wrapping Up Modern SEO
 
 */
