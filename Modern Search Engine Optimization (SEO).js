@@ -10,6 +10,9 @@ Start
 Finish
 
 3. Social Metadata
+Start
+Finish
+
 4. Structured Data
 5. Mobile Optimizations
 6. Accelerated Mobile Pages (AMP) Project
