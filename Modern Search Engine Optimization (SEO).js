@@ -14,6 +14,9 @@ Start
 Finish
 
 4. Structured Data
+Start
+Finish
+
 5. Mobile Optimizations
 6. Accelerated Mobile Pages (AMP) Project
 7. Wrapping Up Modern SEO
