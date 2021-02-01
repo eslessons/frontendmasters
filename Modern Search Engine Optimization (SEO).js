@@ -6,6 +6,9 @@ Start
 Finish
 
 2. Traditional SEO Strategies
+Start
+Finish
+
 3. Social Metadata
 4. Structured Data
 5. Mobile Optimizations
