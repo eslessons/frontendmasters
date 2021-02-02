@@ -6,6 +6,9 @@ Start
 Finish
 
 2. Floats
+Start
+Finish
+
 3. Flexbox
 4. Flexbox Grid
 5. Flexbox Exercises
