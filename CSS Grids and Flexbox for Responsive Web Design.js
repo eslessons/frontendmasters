@@ -22,6 +22,9 @@ Start
 Finish
 
 6. Responsive Images
+Start
+Finish
+
 7. CSS Grid
 8. Wrapping up
 
