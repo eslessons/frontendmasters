@@ -10,6 +10,9 @@ Start
 Finish
 
 3. Flexbox
+Start
+Finish
+
 4. Flexbox Grid
 5. Flexbox Exercises
 6. Responsive Images
