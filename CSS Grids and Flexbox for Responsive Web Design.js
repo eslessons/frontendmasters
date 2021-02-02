@@ -3,6 +3,7 @@ CSS Grids and Flexbox for Responsive Web Design
 
 1. Introduction and Setup
 Start
+Finish
 
 2. Floats
 3. Flexbox
