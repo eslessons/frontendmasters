@@ -26,6 +26,9 @@ Start
 Finish
 
 7. CSS Grid
+Start
+Finish
+
 8. Wrapping up
 
 */
