@@ -18,6 +18,9 @@ Start
 Finish
 
 5. Flexbox Exercises
+Start
+Finish
+
 6. Responsive Images
 7. CSS Grid
 8. Wrapping up
