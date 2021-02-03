@@ -3,7 +3,7 @@ Organizing JavaScript Functionality
 
 1. Beyond the Basics
 Start
-
+Finish
 
 2. Organizing Code
 3. Modules
