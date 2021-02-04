@@ -10,6 +10,9 @@ Start
 Finish
 
 3. File Storage
+Start
+Finish
+
 4. AppSync
 
 */
