@@ -14,6 +14,9 @@ Start
 Finish
 
 4. Navigation
+Start
+Finish
+
 5. Hooks & Network Requests
 6. Forms
 7. Wrapping Up
