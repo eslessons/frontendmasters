@@ -10,6 +10,9 @@ Start
 Finish
 
 3. Basic Components
+Start
+Finish
+
 4. Navigation
 5. Hooks & Network Requests
 6. Forms
