@@ -6,6 +6,9 @@ Start
 Finish
 
 2. Setup
+Start
+Finish
+
 3. Basic Components
 4. Navigation
 5. Hooks & Network Requests
