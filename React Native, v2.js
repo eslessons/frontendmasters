@@ -18,6 +18,9 @@ Start
 Finish
 
 5. Hooks & Network Requests
+Start
+Finish
+
 6. Forms
 7. Wrapping Up
 
