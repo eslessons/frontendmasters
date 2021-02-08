@@ -3,7 +3,7 @@ Rethinking Asynchronous JavaScript
 
 1. Parallel vs. Async
 Start
-
+Finish
 
 2. Callback
 3. Thunks
