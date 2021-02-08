@@ -10,6 +10,9 @@ Start
 Finish
 
 3. Thunks
+Start
+Finish
+
 4. Promises
 5. Generators
 6. Observables
