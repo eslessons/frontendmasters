@@ -14,6 +14,9 @@ Start
 Finish
 
 4. Promises
+Start
+Finish
+
 5. Generators
 6. Observables
 7. CSP
