@@ -6,6 +6,9 @@ Start
 Finish
 
 2. Callback
+Start
+Finish
+
 3. Thunks
 4. Promises
 5. Generators
