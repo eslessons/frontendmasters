@@ -22,6 +22,9 @@ Start
 Finish
 
 6. Analyze & Deploy
+Start
+Finish
+
 7. Wrapping Up
 
 */
