@@ -3,6 +3,7 @@ Introduction to Gatsby
 
 1. Introduction
 Start
+Finish
 
 2. Website Setup
 3. Blog Posts
