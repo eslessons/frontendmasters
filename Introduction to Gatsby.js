@@ -18,6 +18,9 @@ Start
 Finish
 
 5. 3rd Party Data
+Start
+Finish
+
 6. Analyze & Deploy
 7. Wrapping Up
 
