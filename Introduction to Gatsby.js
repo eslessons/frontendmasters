@@ -10,6 +10,9 @@ Start
 Finish
 
 3. Blog Posts
+Start
+Finish
+
 4. Working with Images
 5. 3rd Party Data
 6. Analyze & Deploy
