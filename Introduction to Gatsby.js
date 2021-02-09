@@ -6,6 +6,9 @@ Start
 Finish
 
 2. Website Setup
+Start
+Finish
+
 3. Blog Posts
 4. Working with Images
 5. 3rd Party Data
