@@ -22,5 +22,7 @@ Start
 Finish
 
 6. Protecting Routes
+Start
+Finish
 
 */
