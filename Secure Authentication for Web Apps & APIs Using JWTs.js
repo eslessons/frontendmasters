@@ -10,6 +10,9 @@ Start
 Finish
 
 3. Client Side Sessions
+Start
+Finish
+
 4. User Information in the Payload
 5. Protecting Resources
 6. Protecting Routes
