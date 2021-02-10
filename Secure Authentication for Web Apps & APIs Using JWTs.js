@@ -14,6 +14,9 @@ Start
 Finish
 
 4. User Information in the Payload
+Start
+Finish
+
 5. Protecting Resources
 6. Protecting Routes
 
