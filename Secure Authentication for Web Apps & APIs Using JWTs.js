@@ -6,6 +6,9 @@ Start
 Finish
 
 2. JSON Web Tokens & Single Page Applications
+Start
+Finish
+
 3. Client Side Sessions
 4. User Information in the Payload
 5. Protecting Resources
