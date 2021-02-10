@@ -3,7 +3,7 @@ Secure Authentication for Web Apps & APIs Using JWTs
 
 1. JSON Web Tokens
 Start
-
+Finish
 
 2. JSON Web Tokens & Single Page Applications
 3. Client Side Sessions
