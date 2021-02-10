@@ -18,6 +18,9 @@ Start
 Finish
 
 5. Protecting Resources
+Start
+Finish
+
 6. Protecting Routes
 
 */
