@@ -3,6 +3,7 @@ SQL Fundamentals
 
 1. Foundations of Relational Databases
 Start
+Finish
 
 2. Retrieving Data
 3. Querying Across Tables
