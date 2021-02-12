@@ -7,6 +7,9 @@ Start
 Finish
 
 2. Machine Learning, Neural Networks & Deep Learning
+Start
+Finish
+
 3. Linear Regression
 4. Image Processing & Model Training
 5. Convolution & Pooling
