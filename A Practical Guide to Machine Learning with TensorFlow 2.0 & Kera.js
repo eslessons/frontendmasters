@@ -15,6 +15,9 @@ Start
 Finish
 
 4. Image Processing & Model Training
+Start
+Finish
+
 5. Convolution & Pooling
 6. Text Analytics
 7. Wrapping Up
