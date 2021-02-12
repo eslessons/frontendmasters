@@ -11,6 +11,9 @@ Start
 Finish
 
 3. Linear Regression
+Start
+Finish
+
 4. Image Processing & Model Training
 5. Convolution & Pooling
 6. Text Analytics
