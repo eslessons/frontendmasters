@@ -19,6 +19,9 @@ Start
 Finish
 
 5. Convolution & Pooling
+Start
+Finish
+
 6. Text Analytics
 7. Wrapping Up
 
