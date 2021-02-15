@@ -23,6 +23,9 @@ Start
 Finish
 
 6. Text Analytics
+Start
+Finish
+
 7. Wrapping Up
 
 */
