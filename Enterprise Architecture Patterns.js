@@ -6,6 +6,9 @@ Start
 Finish
 
 2. Complexity
+Start
+Finish
+
 3. Object Oriented Programming
 4. Decisions & Conditionals
 5. Collections & Iterators
