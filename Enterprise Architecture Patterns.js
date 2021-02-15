@@ -18,6 +18,9 @@ Start
 Finish
 
 5. Collections & Iterators
+Start
+Finish
+
 6. Time Management in Applications
 7. Distributed Complexity
 8. Wrapping Up
