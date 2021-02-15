@@ -22,6 +22,9 @@ Start
 Finish
 
 6. Time Management in Applications
+Start
+Finish
+
 7. Distributed Complexity
 8. Wrapping Up
 
