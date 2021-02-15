@@ -14,6 +14,9 @@ Start
 Finish
 
 4. Decisions & Conditionals
+Start
+Finish
+
 5. Collections & Iterators
 6. Time Management in Applications
 7. Distributed Complexity
