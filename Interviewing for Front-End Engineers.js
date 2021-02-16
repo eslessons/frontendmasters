@@ -30,8 +30,11 @@ Start
 Finish
 
 8. Wrapping Up
+Start
+Finish
 
-// promisify
+------- promisify -------
+
 function promisify(fn) {
 	return function(...args) {
 		return new Promise(function(resolve, reject){
