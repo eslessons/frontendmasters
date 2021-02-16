@@ -10,6 +10,9 @@ Start
 Finish
 
 3. Initial Call
+Start
+Finish
+
 4. Code Test
 5. Phone Screen
 6. On-site Interview & Concept Review
