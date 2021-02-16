@@ -6,6 +6,9 @@ Start
 Finish
 
 2. Application
+Start
+Finish
+
 3. Initial Call
 4. Code Test
 5. Phone Screen
