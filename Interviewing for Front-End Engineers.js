@@ -18,7 +18,13 @@ Start
 Finish
 
 5. Phone Screen
+Start
+Finish
+
 6. On-site Interview & Concept Review
+Start
+Finish
+
 7. On-site Interview Example Questions
 8. Wrapping Up
 
