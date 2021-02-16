@@ -26,7 +26,21 @@ Start
 Finish
 
 7. On-site Interview Example Questions
+Start
+Finish
 
 8. Wrapping Up
+
+// promisify
+function promisify(fn) {
+	return function(...args) {
+		return new Promise(function(resolve, reject){
+			function cb(result) {
+				resolve(result)
+			}
+			fn.apply(this, args.concat(cb))
+		})
+	}
+}
 
 */
