@@ -14,6 +14,9 @@ Start
 Finish
 
 4. Code Test
+Start
+Finish
+
 5. Phone Screen
 6. On-site Interview & Concept Review
 7. On-site Interview Example Questions
