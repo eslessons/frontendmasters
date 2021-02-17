@@ -22,6 +22,9 @@ Start
 Finish
 
 6. Data Fetching
+Start
+Finish
+
 7. Thunks
 8. Wrapping Up
 
