@@ -10,6 +10,9 @@ Start
 Finish
 
 3. Hooks State
+Start
+Finish
+
 4. Reducers
 5. Context
 6. Data Fetching
