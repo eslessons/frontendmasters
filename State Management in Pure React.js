@@ -3,7 +3,7 @@ State Management in Pure React, v2
 
 1. Introduction
 Start
-
+Finish
 
 2. Class-Based State
 3. Hooks State
