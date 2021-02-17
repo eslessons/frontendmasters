@@ -14,6 +14,9 @@ Start
 Finish
 
 4. Reducers
+Start
+Finish
+
 5. Context
 6. Data Fetching
 7. Thunks
