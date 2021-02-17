@@ -6,6 +6,9 @@ Start
 Finish
 
 2. Class-Based State
+Start
+Finish
+
 3. Hooks State
 4. Reducers
 5. Context
