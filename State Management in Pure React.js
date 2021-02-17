@@ -18,6 +18,9 @@ Start
 Finish
 
 5. Context
+Start
+Finish
+
 6. Data Fetching
 7. Thunks
 8. Wrapping Up
