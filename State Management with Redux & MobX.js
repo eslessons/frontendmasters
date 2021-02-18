@@ -14,6 +14,9 @@ Start
 Finish
 
 4. Redux Libraries
+Start
+Finish
+
 5. MobX
 6. Wrapping Up
 
