@@ -6,6 +6,9 @@ Start
 Finish
 
 2. Redux Functions
+Start
+Finish
+
 3. Redux & React
 4. Redux Libraries
 5. MobX
