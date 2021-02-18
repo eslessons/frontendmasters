@@ -10,6 +10,9 @@ Start
 Finish
 
 3. Redux & React
+Start
+Finish
+
 4. Redux Libraries
 5. MobX
 6. Wrapping Up
