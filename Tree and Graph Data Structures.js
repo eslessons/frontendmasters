@@ -18,6 +18,9 @@ Start
 Finish
 
 5. Graph Search
+Start
+Finish
+
 6. Wrapping Up
 
 */
