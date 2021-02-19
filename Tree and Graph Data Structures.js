@@ -10,6 +10,9 @@ Start
 Finish
 
 3. Tree Traversal
+Start
+Finish
+
 4. Graphs
 5. Graph Search
 6. Wrapping Up
