@@ -14,6 +14,9 @@ Start
 Finish
 
 4. Graphs
+Start
+Finish
+
 5. Graph Search
 6. Wrapping Up
 
