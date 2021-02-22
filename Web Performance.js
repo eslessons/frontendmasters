@@ -6,6 +6,9 @@ Start
 Finish
 
 2. JavaScript Performance
+Start
+Finish
+
 3. Rendering Performance
 4. Load Performance
 5. Tools
