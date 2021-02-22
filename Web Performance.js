@@ -10,6 +10,9 @@ Start
 Finish
 
 3. Rendering Performance
+Start
+Finish
+
 4. Load Performance
 5. Tools
 6. Wrapping Up
