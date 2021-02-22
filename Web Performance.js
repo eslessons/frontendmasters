@@ -3,7 +3,7 @@ Web Performance
 
 1. Introduction
 Start
-
+Finish
 
 2. JavaScript Performance
 3. Rendering Performance
