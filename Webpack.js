@@ -10,6 +10,9 @@ Start
 Finish
 
 3. Webpack Core Concepts
+Start
+Finish
+
 4. Using Plugins
 5. Wrapping Up
 
