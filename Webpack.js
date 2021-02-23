@@ -18,6 +18,8 @@ Start
 Finish
 
 5. Wrapping Up
+Start
+Finish
 
 Webpack - Mastering Webpack Plugins (Part II)
 
