@@ -14,6 +14,9 @@ Start
 Finish
 
 4. Using Plugins
+Start
+Finish
+
 5. Wrapping Up
 
 Webpack - Mastering Webpack Plugins (Part II)
