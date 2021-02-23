@@ -6,6 +6,9 @@ Start
 Finish
 
 2. Webpack from Scratch
+Start
+Finish
+
 3. Webpack Core Concepts
 4. Using Plugins
 5. Wrapping Up
