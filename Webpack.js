@@ -3,7 +3,7 @@ Webpack - Webpack 4 Fundamentals (Part I)
 
 1. Why Webpack
 Start
-
+Finish
 
 2. Webpack from Scratch
 3. Webpack Core Concepts
