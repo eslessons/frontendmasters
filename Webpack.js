@@ -32,6 +32,8 @@ Start
 Finish
 
 3. Config, Loaders & Babel
+Start
+Finish
 
 Webpack - Web Performance with Webpack (Part III)
 
