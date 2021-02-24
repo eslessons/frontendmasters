@@ -28,6 +28,9 @@ Start
 Finish
 
 2. Creating Plugins
+Start
+Finish
+
 3. Config, Loaders & Babel
 
 Webpack - Web Performance with Webpack (Part III)
