@@ -46,4 +46,7 @@ Start
 Finish
 
 3. Module Methods & Magic Comments
+Start
+Finish
 
+*/
