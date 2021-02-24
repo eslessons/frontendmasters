@@ -42,5 +42,8 @@ Start
 Finish
 
 2. Code Splitting
+Start
+Finish
+
 3. Module Methods & Magic Comments
 
