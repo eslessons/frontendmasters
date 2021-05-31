@@ -2,6 +2,9 @@
 The Good Parts of JavaScript and the Web 
 
 1. Programming Style and your Brain
+Start
+
+
 2. And Then There Was JavaScript 
 3. Function the Ultimate    
 4. The Metamorphosis of Ajax
