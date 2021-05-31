@@ -6,6 +6,9 @@ Start
 Finish
 
 2. And Then There Was JavaScript 
+Start
+
+
 3. Function the Ultimate    
 4. The Metamorphosis of Ajax
 5. ES5 - The New Parts
