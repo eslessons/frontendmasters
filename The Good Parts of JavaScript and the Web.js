@@ -11,7 +11,7 @@ Finish
 
 3. Function the Ultimate
 Start
-
+Finish
 
 4. The Metamorphosis of Ajax
 5. ES5 - The New Parts
