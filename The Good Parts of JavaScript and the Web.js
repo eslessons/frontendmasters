@@ -7,7 +7,7 @@ Finish
 
 2. And Then There Was JavaScript 
 Start
-
+Finish
 
 3. Function the Ultimate    
 4. The Metamorphosis of Ajax
