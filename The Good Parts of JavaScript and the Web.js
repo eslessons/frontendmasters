@@ -18,6 +18,9 @@ Start
 Finish
 
 5. ES5 - The New Parts
+Start
+
+
 6. Fun with Functions
 7. Principles of Security
 8. Managing Asynchronicity
