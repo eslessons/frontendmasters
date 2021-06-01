@@ -22,6 +22,9 @@ Start
 Finish
 
 6. Fun with Functions
+Start
+
+
 7. Principles of Security
 8. Managing Asynchronicity
 9. The Better Parts
