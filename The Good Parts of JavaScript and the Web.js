@@ -14,6 +14,9 @@ Start
 Finish
 
 4. The Metamorphosis of Ajax
+Start
+
+
 5. ES5 - The New Parts
 6. Fun with Functions
 7. Principles of Security
