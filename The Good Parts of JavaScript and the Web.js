@@ -23,7 +23,7 @@ Finish
 
 6. Fun with Functions
 Start
-
+Finish
 
 7. Principles of Security
 8. Managing Asynchronicity
@@ -436,10 +436,166 @@ var add_rev = rev.invoke;
 add_rev(3,4);
 rev.revoke();
 add_rev(5,7)
-// day 2
+
+
+console.log('m')
+function m(value, source) {
+  return {
+    value,
+    source: (typeof source === 'string') ? source : String(value)
+  }
+}
+
+JSON.stringify(m(1));
+JSON.stringify(m(Math.PI, "pi"));
+
+console.log('addm')
+// function addm(source1, source2) {
+//   return {
+//     value: source1.value + source2.value,
+//     source: `(${source1.source}+${source2.source})`
+//   }
+// }
+
+function addm(source1, source2) {
+  return m(source1.value + source2.value, `(${source1.source}+${source2.source})`)
+}
+
+
+JSON.stringify(addm(m(3), m(4)));
+JSON.stringify(addm(m(1), m(Math.PI, "pi")))
+
+ function add(a, b) {
+   return a+b;
+ }
+
+function mul(a, b) {
+  return a*b
+}
+
+console.log('liftm')
+function liftm(f, sign) {
+  return function(source1, source2) {
+    return m(f(source1.value, source2.value), `(${source1.source}${sign}${source2.source})`)
+  }
+}
+
+JSON.stringify(addm(m(3), m(4)));
+JSON.stringify(liftm(mul, "*")(m(3), m(4)))
+
+console.log('liftm2')
+function liftm2(f, sign) {
+  return function(source1, source2) {
+    if(typeof source1 === 'number') {
+      source1 = m(source1);
+    }
+    if(typeof source2 === 'number') {
+      source2 = m(source2);
+    }
+    return m(f(source1.value, source2.value), `(${source1.source}${sign}${source2.source})`)
+  }
+}
+
+var addm = liftm2(add, "+");
+JSON.stringify(addm(3,4));
+
+
+function exp(arr) {
+  return Array.isArray(arr) ? arr[0](arr[1], arr[2]) : arr
+}
+
+var sae = [mul, 5, 11];
+exp(sae);
+exp(42);
+
+console.log('exp nested')
+
+function expn(param) {
+  return Array.isArray(param) ? 
+    param[0](expn(param[1]), expn(param[2])) :
+    param
+}
+
+var nae = [Math.sqrt, [add, [square, 3], [square, 4]]]
+expn(nae)
+
+console.log('addg');
+
+function addg(x) {
+  function more(y) {
+    if (y===undefined) {
+      return x;
+    }
+    x += y;
+    return more;
+  }
+  if (x !== undefined) {
+    return more
+  }
+}
 
 
 
+addg()
+addg(2)()
+addg(2)(7)()
+addg(3)(0)(4)()
+addg(1)(2)(4)(8)()
+  
+function liftg(binary) {
+  return function(first) {
+    if(first === undefined) {
+      return first;
+    }
+    return function more(next) {
+      if (next === undefined) {
+        return first;
+      }
+      first = binary(first, next);
+      return more;
+    }
+}
+
+liftg(mul)();
+liftg(mul)(3)()
+liftg(mul)(3)(0)(4)()
+liftg(mul)(1)(2)(4)(8)()
+
+function arrayg(first) {
+  var array = [];
+  function more(next) {
+    if(next === undefined) {
+      return array;
+    }
+    array.push(next);
+    return more;
+  }
+  return more(first);
+}
+
+arrayg()
+arrayg(3)()
+arrayg(3)(4)(5)()
+
+// ++++++++++++++++++++++++++++++++++++
+
+function continuize(unary) {
+  return function (callback, arg) {
+    return callback(unary(arg))
+  }
+}
+
+// function continuize(any) {
+//   return function (callback, ...x) {
+//     return callback(any(...x))
+//   }
+// }
+
+var sqrtc = continuize(Math.sqrt);
+sqrtc(console.log, 81)
+
+
+*/
 
 
 
