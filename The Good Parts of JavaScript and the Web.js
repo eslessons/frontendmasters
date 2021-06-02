@@ -26,6 +26,9 @@ Start
 Finish
 
 7. Principles of Security
+Start
+
+
 8. Managing Asynchronicity
 9. The Better Parts
 
