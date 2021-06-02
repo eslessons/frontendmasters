@@ -31,7 +31,7 @@ Finish
 
 8. Managing Asynchronicity
 Start
-
+Finish
 
 9. The Better Parts
 
